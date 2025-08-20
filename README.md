@@ -34,15 +34,18 @@ Determinação do grupo com maior taxa de cancelamento
 Geração de gráficos de barras e histogramas para ilustrar os principais achados
 5. Relatório Final
 Compilação das descobertas, conclusões e recomendações estratégicas
+
 📌 Principais Descobertas
 Clientes com menor tempo de permanência e pacote incompleto apresentam maior probabilidade de cancelamento.
 O método de pagamento Electronic Check está fortemente associado ao churn (57,30%).
 Gênero e status de idoso têm impacto menor quando analisados isoladamente.
 O grupo com maior taxa de cancelamento foi o de clientes com Pacote Incompleto (27,51%).
+
 ▶️ Como Executar o Notebook
 Abra o notebook em um ambiente Python com as bibliotecas necessárias instaladas (pandas, numpy, matplotlib).
 Execute as células sequencialmente para replicar a análise.
 Certifique-se de que o arquivo TelecomX_Data.json esteja acessível localmente ou via URL.
+
 📄 Relatório Detalhado
 Consulte a seção "Relatório Final" no notebook para uma descrição aprofundada das análises, interpretações e recomendações estratégicas.
 
