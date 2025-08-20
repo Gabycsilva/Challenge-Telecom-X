@@ -1,0 +1,22 @@
+# 📘 Dicionário de Dados – TelecomX
+
+- **ID_Cliente**: Identificador único do cliente
+- **Cancelou**: Indica se o cliente cancelou o serviço
+- **Genero**: Gênero do cliente (Masculino ou Feminino)
+- **Idoso**: Indica se o cliente é idoso (1 = Sim, 0 = Não)
+- **Possui_Conjuge**: Cliente possui cônjuge
+- **Possui_Dependentes**: Cliente possui dependentes
+- **Meses_Permanencia**: Tempo de permanência em meses
+- **Servico_Telefone**: Cliente possui serviço de telefone
+- **Multiplas_Linhas**: Cliente possui múltiplas linhas telefônicas
+- **Tipo_Internet**: Tipo de serviço de internet contratado
+- **Backup_Online**: Cliente possui serviço de backup online
+- **Protecao_Dispositivo**: Cliente possui proteção para dispositivos
+- **Suporte_Tecnico**: Cliente possui suporte técnico
+- **Streaming_TV**: Cliente possui serviço de streaming de TV
+- **Streaming_Filmes**: Cliente possui serviço de streaming de filmes
+- **Tipo_Contrato**: Tipo de contrato (mensal, anual, etc.)
+- **Fatura_Digital**: Cliente utiliza fatura digital
+- **Metodo_Pagamento**: Forma de pagamento utilizada
+- **Cobranca_Mensal**: Valor mensal cobrado ao cliente
+- **Cobranca_Total**: Valor total cobrado durante o período de permanência
